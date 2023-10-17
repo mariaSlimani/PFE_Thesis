@@ -4,7 +4,7 @@
 
 This repository contains the thesis conducted as part my end of studies project at ESI-Algiers in order to obtain my diploma as a state computer science engineer. It deals with the topic of sentiment analysis and opinion spam detection, with a proof of concept designed for reputation analysis of my case study : the Brandt brand.
 
-**[Link to the pdf file](https://mariaslimani.github.io/PFE_Thesis/PSL1408%20SLIMANI.pdf)**
+**[Link to the pdf file](https://mariaslimani.github.io/PFE_Thesis/PSL1408_SLIMANI.pdf)**
 
 ## Thesis Details
 
